@@ -14,6 +14,6 @@ Axios
 # How to run
 
     $ git clone <this_repo>
-    $ cd climaapp/climaapp
+    $ cd climaapp
     $ npm i
     $ npm run dev
