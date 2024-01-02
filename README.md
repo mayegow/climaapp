@@ -8,7 +8,7 @@ In this project:
 ---
 # Depends
 
-Axios
+ Axios
 ---
 
 # How to run
@@ -17,3 +17,10 @@ Axios
     $ cd climaapp
     $ npm i
     $ npm run dev
+# Enjoy it
+
+![](https://github.com/mayegow/climaapp/blob/main/climaapp/imagenes/Captura%20de%20pantalla%202024-01-01%20a%20la(s)%204.09.35%E2%80%AFp.m..png)
+![](https://github.com/mayegow/climaapp/blob/main/climaapp/imagenes/Captura%20de%20pantalla%202024-01-01%20a%20la(s)%204.09.50%E2%80%AFp.m..png)
+![](https://github.com/mayegow/climaapp/blob/main/climaapp/imagenes/Captura%20de%20pantalla%202024-01-01%20a%20la(s)%204.10.03%E2%80%AFp.m..png)
+![](https://github.com/mayegow/climaapp/blob/main/climaapp/imagenes/Captura%20de%20pantalla%202024-01-01%20a%20la(s)%204.10.11%E2%80%AFp.m..png)
+![](https://github.com/mayegow/climaapp/blob/main/climaapp/imagenes/Captura%20de%20pantalla%202024-01-01%20a%20la(s)%204.10.23%E2%80%AFp.m..png)
